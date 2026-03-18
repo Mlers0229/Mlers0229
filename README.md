@@ -83,23 +83,37 @@
   </a>
 </div>
 
+<table>
+  <tr>
+    <td width="50%" align="center"><strong>LearnFlow</strong><br /><sub>多 Agent 学习规划平台</sub></td>
+    <td width="50%" align="center"><strong>MlersTools</strong><br /><sub>Rust + Tauri 桌面工具集</sub></td>
+  </tr>
+</table>
 
 ## GitHub Stats / 数据概览
 
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Mlers0229&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&layout=compact&theme=transparent&hide_border=true"
-    alt="Top languages"
-  />
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=Mlers0229&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+        alt="GitHub stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&layout=compact&theme=transparent&hide_border=true"
+        alt="Top languages"
+      />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <sub>Activity overview</sub>
+  <br />
   <img
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Mlers0229&theme=github-compact&hide_border=true&area=true"
@@ -115,17 +129,30 @@
     src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/base.svg"
     alt="Base metrics"
   />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/languages.svg"
-    alt="Language metrics"
-  />
-  <img
-    width="49%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/isocalendar.svg"
-    alt="Isometric calendar metrics"
-  />
 </div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/languages.svg"
+        alt="Language metrics"
+      />
+      <br />
+      <sub>Language footprint</sub>
+    </td>
+    <td width="50%" align="center">
+      <img
+        width="100%"
+        src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/isocalendar.svg"
+        alt="Isometric calendar metrics"
+      />
+      <br />
+      <sub>Contribution calendar</sub>
+    </td>
+  </tr>
+</table>
 
 ## Contact / 联系方式
 
