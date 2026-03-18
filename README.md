@@ -81,27 +81,8 @@
   <a href="https://github.com/Mlers0229/MlersTools">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mlers0229&repo=MlersTools&theme=transparent&hide_border=true" alt="MlersTools repo card" />
   </a>
-  <a href="https://github.com/Mlers0229/MlersBlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mlers0229&repo=MlersBlog&theme=transparent&hide_border=true" alt="MlersBlog repo card" />
-  </a>
 </div>
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>LearnFlow</h3>
-      <p>一个面向智能学习场景的多 Agent 学习规划平台，围绕目标拆解、计划生成、资源推荐、练习评测与复盘优化构建完整闭环。</p>
-    </td>
-    <td width="33%">
-      <h3>MlersTools</h3>
-      <p>一个基于 Rust + Tauri v2 的现代桌面工具集，方向是可扩展、可维护、适合持续迭代。</p>
-    </td>
-    <td width="33%">
-      <h3>MlersBlog</h3>
-      <p>一个前后端分离的博客系统项目，强调完整功能、清晰组织和更好的使用体验。</p>
-    </td>
-  </tr>
-</table>
 
 ## GitHub Stats / 数据概览
 
@@ -131,17 +112,17 @@
 <div align="center">
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/metrics-output/metrics/base.svg"
+    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/base.svg"
     alt="Base metrics"
   />
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/metrics-output/metrics/languages.svg"
+    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/languages.svg"
     alt="Language metrics"
   />
   <img
     width="49%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/metrics-output/metrics/isocalendar.svg"
+    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/isocalendar.svg"
     alt="Isometric calendar metrics"
   />
 </div>
