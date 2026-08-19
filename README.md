@@ -2,32 +2,125 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Mlers0229 profile banner" />
 
   <br />
-  <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mlers0229;Building+useful+tools+with+Rust+%2B+Tauri;Exploring+full-stack+apps+with+Vue+and+Spring+Boot;Student+developer+from+Tianjin"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Hi%2C+I'm+Mlers0229+%F0%9F%91%8B;Building+useful+tools+with+Rust+%2B+Tauri;Exploring+full-stack+apps+with+Vue+%2B+Spring+Boot;Turning+ideas+into+practical+software"
+    alt="Typing introduction"
   />
-
-  <br />
-  <br />
 
   <p>
     <a href="https://github.com/Mlers0229">
-      <img src="https://img.shields.io/badge/GitHub-Mlers0229-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+      <img src="https://img.shields.io/badge/GitHub-Mlers0229-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Tianjin-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
-    <img src="https://img.shields.io/badge/School-Tianjin%20Renai%20College-f59e0b?style=for-the-badge&logo=bookstack&logoColor=white" alt="School badge" />
+    <img src="https://img.shields.io/badge/Location-Tianjin-0EA5E9?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location: Tianjin" />
+    <img src="https://img.shields.io/badge/Focus-Rust%20%2B%20Tauri-F59E0B?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Focus: Rust and Tauri" />
+    <img src="https://komarev.com/ghpvc/?username=Mlers0229&amp;style=flat-square&amp;color=2563EB&amp;label=Profile+views" alt="Profile views" />
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Mlers0229&style=flat-square&color=2563eb" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/Mlers0229?style=flat-square&color=0f766e&label=Followers" alt="GitHub followers" />
-    <img src="https://img.shields.io/badge/Focus-Rust%20%2B%20Tauri-f59e0b?style=flat-square" alt="Current focus" />
-  </p>
+  <sub>Student developer · Product-minded builder · Open-source explorer</sub>
 </div>
 
-## Contribution Snake / 提交贪吃蛇
+---
+
+## 👋 About Me / 关于我
+
+> 把“能运行”继续打磨成“好用、清晰、可维护”的产品。
+
+- 🎓 来自天津的学生开发者，关注桌面工具、全栈应用与真实的产品体验
+- 🦀 正在深入 `Rust`、`Tauri v2`，探索更现代的跨平台桌面开发
+- 🌐 使用 `Vue`、`Spring Boot`、`FastAPI` 构建完整的全栈应用
+- 🤖 对多 Agent 应用、智能学习工具和工程化落地保持长期兴趣
+
+## 🚀 What I'm Building / 近期方向
+
+```text
+01  用 Rust + Tauri 打磨现代、轻量的桌面工具
+02  推进具备完整闭环的智能学习平台原型
+03  在全栈项目中训练产品意识与工程落地能力
+04  持续改善项目结构、可维护性和开发体验
+```
+
+## 🧰 Tech Stack / 技术栈
+
+<div align="center">
+  <p><strong>Core · Desktop · Frontend · Backend · Data</strong></p>
+  <img
+    src="https://skillicons.dev/icons?i=rust,tauri,ts,vue,vite,java,spring,py,fastapi,postgres,nodejs,git&amp;perline=6"
+    alt="Rust, Tauri, TypeScript, Vue, Vite, Java, Spring, Python, FastAPI, PostgreSQL, Node.js and Git"
+  />
+</div>
+
+## ✨ Featured Projects / 代表项目
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Mlers0229/LearnFlow">LearnFlow</a>
+      </h3>
+      <p align="center"><strong>多 Agent 智能学习规划平台</strong></p>
+      <p>围绕目标拆解、学习规划与执行反馈，探索真正具备完整学习闭环的智能应用。</p>
+      <p align="center">
+        <a href="https://github.com/Mlers0229/LearnFlow">
+          <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View LearnFlow" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/Mlers0229/MlersTools">MlersTools</a>
+      </h3>
+      <p align="center"><strong>Rust + Tauri 桌面工具集</strong></p>
+      <p>聚焦日常场景与使用效率，把常用能力组合成轻量、直观、真正可用的桌面体验。</p>
+      <p align="center">
+        <a href="https://github.com/Mlers0229/MlersTools">
+          <img src="https://img.shields.io/badge/View_Project-0F766E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View MlersTools" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Activity / 数据概览
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api?username=Mlers0229&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api?username=Mlers0229&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
+        />
+        <img
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api?username=Mlers0229&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;rank_icon=github"
+          alt="Mlers0229 GitHub stats"
+        />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&amp;layout=compact&amp;theme=default&amp;hide_border=true"
+        />
+        <img
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&amp;layout=compact&amp;theme=default&amp;hide_border=true"
+          alt="Mlers0229 most used languages"
+        />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <picture>
@@ -41,124 +134,62 @@
     />
     <img
       width="100%"
-      alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
     />
   </picture>
 </div>
 
-## About Me / 关于我
+<details>
+  <summary><strong>📈 View detailed auto-generated metrics / 查看详细自动指标</strong></summary>
 
-- 来自天津，现阶段主要在做学生开发者视角下的实用型项目。
-- 比较关注桌面工具、全栈应用和“真的能被人用起来”的产品体验。
-- 最近投入较多的方向是 `Rust`、`Tauri v2`、`Vue`、`Spring Boot`、`FastAPI` 和多 Agent 应用。
-- 我希望把每个项目都做得更完整一点，不只是能跑起来，还要有清晰结构、可维护性和真实使用价值。
-
-## Current Focus / 近期方向
-
-```text
-- 用 Rust + Tauri 打磨更现代的桌面工具
-- 推进 LearnFlow 这类具备完整闭环的智能学习平台原型
-- 通过全栈项目训练产品意识和工程落地能力
-- 持续改进项目结构、可维护性和开发体验
-```
-
-## Tech Stack / 技术栈
-
-<div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=rust,tauri,ts,vue,vite,java,spring,py,fastapi,postgres,nodejs,git&perline=6"
-    alt="Tech stack icons"
-  />
-</div>
-
-## Featured Projects / 代表项目
-
-<div align="center">
-  <a href="https://github.com/Mlers0229/LearnFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mlers0229&repo=LearnFlow&theme=transparent&hide_border=true" alt="LearnFlow repo card" />
-  </a>
-  <a href="https://github.com/Mlers0229/MlersTools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mlers0229&repo=MlersTools&theme=transparent&hide_border=true" alt="MlersTools repo card" />
-  </a>
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center"><strong>LearnFlow</strong><br /><sub>多 Agent 学习规划平台</sub></td>
-    <td width="50%" align="center"><strong>MlersTools</strong><br /><sub>Rust + Tauri 桌面工具集</sub></td>
-  </tr>
-</table>
-
-## GitHub Stats / 数据概览
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=Mlers0229&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-        alt="GitHub stats"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlers0229&layout=compact&theme=transparent&hide_border=true"
-        alt="Top languages"
-      />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub>Activity overview</sub>
   <br />
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mlers0229&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
-  />
-</div>
 
-## Auto Metrics / 自动指标图
+  <div align="center">
+    <img
+      width="100%"
+      src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/base.svg"
+      alt="Base GitHub metrics"
+    />
+  </div>
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/base.svg"
-    alt="Base metrics"
-  />
-</div>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img
+          width="100%"
+          src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/languages.svg"
+          alt="Language metrics"
+        />
+        <br />
+        <sub>Language footprint</sub>
+      </td>
+      <td width="50%" align="center">
+        <img
+          width="100%"
+          src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/isocalendar.svg"
+          alt="Isometric contribution calendar"
+        />
+        <br />
+        <sub>Contribution calendar</sub>
+      </td>
+    </tr>
+  </table>
+</details>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/languages.svg"
-        alt="Language metrics"
-      />
-      <br />
-      <sub>Language footprint</sub>
-    </td>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://raw.githubusercontent.com/Mlers0229/Mlers0229/output/metrics/isocalendar.svg"
-        alt="Isometric calendar metrics"
-      />
-      <br />
-      <sub>Contribution calendar</sub>
-    </td>
-  </tr>
-</table>
-
-## Contact / 联系方式
-
-- GitHub: [github.com/Mlers0229](https://github.com/Mlers0229)
-- School: [Tianjin Renai College](https://www.tjrac.edu.cn/)
+## 📫 Connect / 联系我
 
 <div align="center">
-  <sub>参考了优秀 GitHub Profile README 的结构感和节奏，但内容已经改成更贴合我自己的项目、技术栈与方向。</sub>
+  <a href="https://github.com/Mlers0229">
+    <img src="https://img.shields.io/badge/GitHub-Mlers0229-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.tjrac.edu.cn/">
+    <img src="https://img.shields.io/badge/Tianjin_Renai_College-F59E0B?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="Tianjin Renai College" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Stay curious · Keep building · Ship useful things</sub>
 </div>
